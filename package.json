@@ -1,0 +1,11 @@
+{
+    "name": "app-service-mulecicdwithjenkins",
+    "description": "Simple Node.js sample for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
