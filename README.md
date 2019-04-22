@@ -1,5 +1,5 @@
 ---
-topic: Node.js Hello World
+topic: Node.js mule-mulecicdwithjenkins
 languages:
   - javascript
   - nodejs
@@ -8,7 +8,7 @@ products:
   - Azure Web Apps
 ---
 
-# Node.js Hello World
+# Node.js mule-mulecicdwithjenkins
 
 This sample demonstrates a tiny mule CI/CD node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
 
